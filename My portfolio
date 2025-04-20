@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Hi, I'm [Your Name]</h1>
+    <p>Aspiring Web Developer | Student</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>This is a short paragraph about me. I'm passionate about tech, coding, and learning new things!</p>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li>Project 1 - A simple calculator</li>
+      <li>Project 2 - Weather app</li>
+      <li>Project 3 - Personal blog</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: your.email@example.com</p>
+  </section>
+
+  <footer>
+    <p>© 2025 [Your Name]. All rights reserved.</p>
+  </footer>
+</body>
+</html>
